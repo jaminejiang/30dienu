@@ -43,11 +43,14 @@
                     </li>
                     {% endif %}
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
+                <p class="copyright text-muted">&copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
             </div>
         </div>
     </div>
 </footer>
+
+    {% include google-analytics.html %}
+    {% include comments-count.html %}
 
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>

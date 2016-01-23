@@ -24,9 +24,11 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
+                
+                {% include share-page.html %}
 				{{ content }}
-
+                {% include share-page.html %}
+                
                 <hr>
 
                 <ul class="pager">
@@ -41,6 +43,8 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
+
+                {% include comments.html %}
 
             </div>
         </div>
