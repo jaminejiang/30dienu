@@ -16,3 +16,10 @@ highlighter: pygments
 # permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+sitemap:
+  lastmod: 2015-12-23
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
+  
