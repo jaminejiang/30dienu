@@ -5,6 +5,7 @@ date: 2015-09-19 10:48:15+00:00
 layout: post
 slug: 42-195-m
 title: 42 195 m
+subtitle: "Įgyvendinau savo svajonę - nubėgau pirmąją maratono distanciją dar iki savo 40 gimtadienio. Mažieji tikslai pasiekti - finišavau ir atbėgau ne paskutinis. Planas maksimum - maratonas greičiau, nei per 3 valandas - dar ateityje."
 wordpress_id: 4339
 categories:
 - iššūkis
