@@ -5,7 +5,7 @@ date: 2014-09-17 03:48:28+00:00
 layout: post
 slug: projektas-vyturys-rezultatai
 title: Projektas "Vyturys" - rezultatai
-wordpress_id: 4325
+subtitle: "Vienas pagrindinių šios vasaros \"lifehack\'ų'" iš #labrat serijos buvo mano projektas \"vyturys\". Praėjo trys mėnesiai ir nepastebimai pradėjau atsibusti 5-10 minučių iki žadintuvo, kuris įprastai suskamba 4:55."
 categories:
 - asmeninis tobulėjimas
 tags:
