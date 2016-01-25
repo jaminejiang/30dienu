@@ -5,6 +5,7 @@ date: 2015-10-30 20:20:45+00:00
 layout: post
 slug: ko-reikia-norint-pradeti-begioti
 title: Ko reikia, norint pradėti bėgioti
+subtitle: "Taigi tu, nusprendei pradėti bėgioti, ruoštis varžyboms ar šiaip, savo malonumui. Kyla klausimas - ko gi tam reikia, kad bėgimas teiktų malonumą ir pasitenkimimą? Pagrindinis bėgiko inventorius yra bėgimo bateliai. Visus kitus aksesuarus pradžioje galima pakeisti ar apsieiti iš viso be jų, o štai bateliai yra būtini."
 categories:
 - iššūkis
 tags:
