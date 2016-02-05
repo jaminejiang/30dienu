@@ -2,7 +2,7 @@
 published: true
 author: dainius
 comments: true
-date: 2016-01-20 12:45:00+00:00
+date: 2016-02-05 12:45:00+00:00
 layout: post
 slug: pasiruosimas-ryga-2016
 title: "Pasiruošimas 2016 metų Rygos maratonui"
