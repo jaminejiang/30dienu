@@ -23,3 +23,26 @@ Treniruotes vykdau nuo vasario 2 d. pagal [Bridger Ridge Run](https://bridgerrid
 
 ###Treniruočių grafikas
 
+Data | Treniruotė | Atlikimas | Pastabos
+-----|------------|-----------|----------
+Vas 2 | 5 km / 20:50 min. | 5.11 km/22:15 min. | Kažkodėl sugebėjau suskaičiuot, kad 5 km per 20 minučių yra 5 min./km tempas. Finišuodamas supratau, kad matematinis koprocesorius sufeilino.
+Vas 4 | 800 m/3 min., recovery 3 min. 2 kartai | 3:11 ir 2:58 | 
+Vas 6 | 1:30:00 5 min/km + 2 km 4:10 min/km (varžybų tempas) |  |
+Vas 9 | 7 km / 29:10 min. |  | 
+Vas 11 | 800 m/3 min., recovery 3 min. 3 kartai |  | 
+Vas 13 | 1:30:00 5 min./km + 3 km 4:10 min./km |  |
+Vas 16 | 8 km / 33:20 min. |  | 
+Vas 18 | 800 m/3 min., recovery 3 min. 4 kartai |  | 
+Vas 20 | 1:40:00 5 min./km + 5 km 4:10 min./km |  |
+Vas 23 | 10 km / 41:40 min. |  | 
+Vas 25 | 800 m/3 min., recovery 3 min. 5 kartai |  | 
+Vas 27 | 1:40:00 5 min./km + 7 km 4:10 min./km |  |
+Kov 1 | 11 km / 45:50 min. |  | 
+Kov 3 | 800 m/3 min., recovery 3 min. 6 kartai |  | 
+Kov 5 | 1:50:00 5 min./km + 8 km 4:10 min./km |  |
+Kov 8 | 13 km / 54:10 min. |  | 
+Kov 10 | 800 m/3 min., recovery 3 min. 7 kartai |  | 
+Kov 12 | 1:50:00 5 min./km + 10 km 4:10 min./km |  |
+Kov 15 | 15 km / 1:02:30 min. |  | 
+Kov 17 | 800 m/3 min., recovery 3 min. 8 kartai |  | 
+Kov 19 | 2:00:00 5 min./km + 10 km 4:10 min./km |  |
