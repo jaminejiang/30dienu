@@ -6,7 +6,7 @@ date: 2016-02-05 12:45:00+00:00
 layout: post
 slug: pasiruosimas-ryga-2016
 title: "Pasiruošimas 2016 metų Rygos maratonui"
-subtitle: "Šiemet gaudau savo svajonę už uodegos ir labai tikiuosi, kad Rygosd maratonui pavyks pasiruošti žymiai geriau, negu 2015 metų Vilniaus maratonui. Juo labiau, kad be aplinkybių sukeltų trikdžių, bėgdamas Vilniuje atradau savo silpnąsias vietas ir ėmiausi priemonių joms ištaisyti."
+subtitle: "Šiemet gaudau savo svajonę už uodegos ir labai tikiuosi, kad Rygos maratonui pavyks pasiruošti žymiai geriau, negu 2015 metų Vilniaus maratonui. Juo labiau, kad be aplinkybių sukeltų trikdžių, bėgdamas Vilniuje atradau savo silpnąsias vietas ir ėmiausi priemonių joms ištaisyti."
 categories:
 - iššūkis
 tags:
@@ -15,7 +15,7 @@ tags:
 - planai
 ---
 
-Šiemet gaudau savo svajonę už uodegos ir labai tikiuosi, kad Rygosd maratonui pavyks pasiruošti žymiai geriau, negu [2015 metų Vilniaus maratonui](http://30dienu.lt/42-195-m). Juo labiau, kad be aplinkybių sukeltų trikdžių, bėgdamas Vilniuje atradau savo silpnąsias vietas ir ėmiausi priemonių joms ištaisyti: kompresines blauzdines turiu, vitaminus/mineralus vartoju, tinkami (labai tikiuosi) bėgimo batai jau prabėgioti (šiai dienai su jais jau nubėgau 230 km, tikiuosi, kad kaip tik pakaks pasiruošimui ir varžyboms, o po maratono, greičiausiai, vėl reiks dairytis naujo apavo). Beliko išsirinkti man labiausiai tinkančius energetinius geliukus.
+Šiemet gaudau savo svajonę už uodegos ir labai tikiuosi, kad Rygos maratonui pavyks pasiruošti žymiai geriau, negu [2015 metų Vilniaus maratonui](http://30dienu.lt/42-195-m). Juo labiau, kad be aplinkybių sukeltų trikdžių, bėgdamas Vilniuje atradau savo silpnąsias vietas ir ėmiausi priemonių joms ištaisyti: kompresines blauzdines turiu, vitaminus/mineralus vartoju, tinkami (labai tikiuosi) bėgimo batai jau prabėgioti (šiai dienai su jais jau nubėgau 230 km, tikiuosi, kad kaip tik pakaks pasiruošimui ir varžyboms, o po maratono, greičiausiai, vėl reiks dairytis naujo apavo). Beliko išsirinkti man labiausiai tinkančius energetinius geliukus.
 
 Treniruočių programa
 
